@@ -1,0 +1,5 @@
+press K to pause the game
+
+press Space to start the game from main menu
+ 
+arrow to move, space to fire
